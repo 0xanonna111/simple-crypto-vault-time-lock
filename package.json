@@ -1,0 +1,6 @@
+{
+  "name": "simple-crypto-vault-time-lock",
+  "version": "1.0.0",
+  "description": "Time-Locked Blockchain Vault Repository",
+  "dependencies": {}
+}
